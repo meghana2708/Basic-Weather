@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import SeasonDisplay from './SeasonDisplay';
 import Spinner from './spinner';
+import './styles/App.css'
 // const App = () => {
   
 //     window.navigator.geolocation.getCurrentPosition(

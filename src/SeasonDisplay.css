@@ -10,11 +10,11 @@
     right: 10px ;
 }
 
-.season-display.Winter i{
+.season-display.winter i{
     color: blue;
 }
 
-.season-display.Summer i{
+.season-display.summer i{
     color: orange;
 }
 
@@ -26,10 +26,10 @@
     height: 100vh;
 }
 
-.Summer{
+.summer{
     background-color:orangered;
 }
 
-.Winter{
+.winter{
     background-color: aliceblue;
 }
